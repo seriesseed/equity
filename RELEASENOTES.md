@@ -9,9 +9,13 @@ Here is a summary of the updates:
 
 ### Stock Investment Agreement
 •   Removed unnecessary reference to preemptive rights in Section 4.2.   
+
 •   Moved definition of “Stockholder” to earlier in document, from Section 7.1 to Section 5.3.  
+
 •   Added clarifying sentence in Section 8.1 that “no Stockholder may transfer Shares unless each transferee agrees to be bound by the terms of this Agreement.”
+
 •   Added further clarification in Section 8.8 that “the addition of a party to this Agreement pursuant to a transfer of Shares in accordance with Section 8.1 shall not require any further consent.”
+
 •   Added new language to Disclosure Schedule clarifying arrangement of sections and providing standard disclaimers.  The previous version did not have any introductory language for the Disclosure Schedule.  
 
 ## Disclaimer
