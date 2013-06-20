@@ -36,7 +36,7 @@ Votes together with the Common Stock on all matters on an as converted basis.  A
 
 ### Documentation:	
 
-Documents will be based on Series Seed Preferred Stock documents published at www.seriesseed.com.      
+Documents will be identical to the Series Seed Preferred Stock documents published at www.seriesseed.com, except for the modifications set forth in this Term Sheet.    
 
 ### Financial Information:	
 
