@@ -18,49 +18,49 @@ The parties hereto hereby agree as follows:
 
 ### 1. OVERVIEW DEFINITIONS.
 
-“Agreement Date” shall mean *____________________________________________.*
+“Agreement Date” means *____________________________________________.*
 
-“Company” shall mean *___________________________________________________.*
+“Company” means *___________________________________________________.*
 
-“Governing Law” shall mean the laws of the state of *____________________.*
+“Governing Law” means the laws of the state of *____________________.*
 
-“Dispute Resolution Jurisdiction” shall mean the federal or state courts located in *________________.*
+“Dispute Resolution Jurisdiction” means the federal or state courts located in *________________.*
 
-“State of Incorporation” shall mean *____________________________________.*
+“State of Incorporation” means *____________________________________.*
 
-“Stock Plan” shall mean *________________________________________________.*
+“Stock Plan” means *________________________________________________.*
 
 ### 2. BOARD COMPOSITION DEFINITIONS.
 
-“Common Board Member Count” shall mean *______.*
+“Common Board Member Count” means *______.*
 
-“Mutual Consent Board Member Count” shall mean *______.*
+“Mutual Consent Board Member Count” means *______.*
 
-“Series Seed Board Member Count” shall mean *______.*
+“Series Seed Board Member Count” means *______.*
 
-“Common Control Holders” shall mean the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
+“Common Control Holders” means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
 
 ### 3. TERM SHEET DEFINITIONS.
 
-“Major Purchaser Dollar Threshold” shall mean *$____________.*
+“Major Purchaser Dollar Threshold” means *$____________.*
 
-“Purchase Price” shall mean *$____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
+“Purchase Price” means *$____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
 
-“Total Series Seed Investment Amount” shall mean *$____________.*
+“Total Series Seed Investment Amount” means *$____________.*
 
-“Unallocated Post-Money Option Pool Percent” shall mean *____________*%.
+“Unallocated Post-Money Option Pool Percent” means *____________*%.
 
-“Purchaser Counsel Reimbursement Amount” shall mean *$____________.*
+“Purchaser Counsel Reimbursement Amount” means *$____________.*
 
 #### 4. RESULTING CAP TABLE DEFINITIONS.
 
-“Common Shares Issued and Outstanding Pre-Money” shall mean *____________.*
+“Common Shares Issued and Outstanding Pre-Money” means *____________.*
 
-“Total Post-Money Shares Reserved for Option Pool” shall mean *____________.* 
+“Total Post-Money Shares Reserved for Option Pool” means *____________.* 
 
-“Number of Issued And Outstanding Options” shall mean *____________.*
+“Number of Issued And Outstanding Options” means *____________.*
 
-“Unallocated Post-Money Option Pool Shares” shall mean *____________.* 
+“Unallocated Post-Money Option Pool Shares” means *____________.* 
   
 # SCHEDULE 1
 
