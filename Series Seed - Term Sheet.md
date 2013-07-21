@@ -1,58 +1,58 @@
-# TERMS FOR PRIVATE PLACEMENT OF SEED PREFERRED STOCK OF *[Insert Company Name]*, INC.
+# *[Insert Company Name]* SERIES SEED TERM SHEET.
 
 *[Date]*
 
-The following is a summary of the principal terms with respect to the proposed Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the “Company”).  Except for the section entitled “Binding Terms,” such summary of terms does not constitute a legally binding obligation.  Any other legally binding obligation will only be made pursuant to definitive agreements to be negotiated and executed by the parties.
+This term sheet outlines a proposed equity financing by *[___________]*, a *[Delaware]* corporation (the “Company”).  The parties hereto agree to be bound legally by the terms in the section entitled “Binding Terms”. Nothing else in this term sheet is binding on any party.
 
-## Offering Terms  
+## Non-Binding Terms Summary 
 
-### Securities to Issue:  
+### Offering Structure:  
 
-Shares of Series Seed Preferred Stock of the Company (the “Series Seed”).
+The Company will issue shares of newly-designated Series Seed Preferred Stock (the “Series Seed Stock”), in an  offering to one or more accredited investors, including the undersigned lead investor(s)(the "Purchasers") on identical terms (the "Offering").
 
-### Aggregate Proceeds:	
+### Target Proceeds:	
 
-*$[_________]* in aggregate.
+The Company seeks to raise at least *$[_________]*, and no more than *$[_________]*, in aggregate proceeds from the Offering. The Company may close with additional Purchasers on a rolling basis until the earlier of (i) the date it has raised the full target amount, and (ii) *[Insert Latest Date for Conclusion of Offering]*.
 
 ### Purchasers:	
 
-*[Accredited investors approved by the Company]* (the “Purchasers”).
+The offering will rely on the Regulation D, Rule 506 exemption applied to offerings made without public solicitation. All Purchasers must certify that they meet the definition of "accredited investor" as defined in Rule 501 (the “Purchasers”).
 
-### Price Per Share:	
+### Offering Price:	
 
-Price per share (the “Original Issue Price”), based on a pre-money valuation of *$[____]*, including an available option pool of *[___]*%.
+The offering price will be based on a pre-money valuation of *$[____]* applied to all shares of its common stock issued and outstanding immediately prior to the Offering. The Purchasers will be further diluted by an option pool of *[___]*% of the Company's common stock on a fully-diluted basis, assuming the pool is fully utilized and the options exercised, and assuming conversion of the Series Seed Stock.
 
 ### Liquidation Preference:	
 
-One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common.  A merger, reorganization or similar transaction will be treated as a liquidation.
+The Series Seed Stcok will receive a non-participating, 1X preference on liquidation.  Any transaction for consideration that results in a change-of-control will be treated as a liquidation.
 
 ### Conversion:	
 
-Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder.
+The Series Seed Stock entitles the holder either to receive the preference amount, or to convert each share of Series Seed Stock into one share of common stock upon liquidation (subject to proportional adjustments for stock splits, adjustments, and dividends).
 
 ### Voting Rights:	
 
-Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to the Company’s right of repurchase at original cost); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
+The holders of Series Seed Stock will vote together with the common stockholders on all matters, on an as-converted basis.  Approval of the holders of a majority of the Series Seed Stock is required to (i) adversely change rights of the Series Seed Stock; (ii) change the authorized number of shares of Series Seed Stock; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Series Seed Stock; (iv) redeem or repurchase any shares of stock of any class (other than pursuant to the Company’s right to repurchase unvested shares issued to founders at cost upon termination of employment); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) enter into any transaction resulting in a liquidation or dissolution, broadly defined.
 
 ### Documentation:	
 
-Documents will be identical to the Series Seed Preferred Stock documents published at www.seriesseed.com, except for the modifications set forth in this Term Sheet.    
+Documents will be identical to the Series Seed Preferred Stock documents published at www.seriesseed.com, except for changes contemplated by this Term Sheet.    
 
 ### Financial Information:	
 
-Purchasers who have invested at least *[$________]* (“Major Purchasers”) will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least *[$________]* (each, a “Major Purchasers”) will receive standard information & inspection rights, and a management rights letter.
 
 ### Participation Right:	
 
-Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
+Major Purchasers will have the right to participate in subsequent issuances of equity securities to the extent necessary to maintain each Major Purchaser's respective percentage ownership of the Company's stock, on a fully-diluted basis, assuming the option pool is fully utilized and the options exercised, and assuming conversion of the Series Seed Stock.
 
 ### Board of Directors:	
 
-*[___]* directors elected by holders of a majority of common stock, *[__]* elected by holders of a majority of Series Seed and *[___]* elected by mutual consent.
+*[___]* directors elected by holders of a majority of common stock, *[__]* elected by holders of a majority of Series Seed Stock and *[___]* elected by all classes voting together, on an as-converted basis.
 
 ### Expenses:	
 
-Company to reimburse counsel to Purchasers for a flat fee of $10,000.
+Company to reimburse the Purchasers for their transaction fees and expenses, including legal fees for a single counsel for all Purchasers, up to a maximum of $10,000.
 
 ### Future Rights:	
 
@@ -60,11 +60,15 @@ The Series Seed will be given the same rights as the next series of Preferred St
 
 ### Key Holder Matters:	
 
-Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+Each founder will be defined as a "Key Holder" in the definitive transaction documents. Each Key Holder will submit his/her shares of stock to vesting over 4 years with a 1-year cliff, beginning as of *[Insert Vesting Start Date]*. Key Holders will also sign standard technology assignments and employee covenants prior to the Offering.
+
+### Governing Law:
+
+The definitive transaction documents will stipulate Delaware governing law, and dispute resolution in mutually agreed location (or remotely if any party requests) pursuant to AAA Commercial Arbitration Rules.
 
 ### Binding Terms:	
 
-For a period of thirty days, the Company agrees not to solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company will not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+For a period of thirty days, the Company agrees not to solicit superior offers from third parties for any equity financing, except for prospective Purchasers who wish to participate in the Offering on the terms outlined above.  Without the consent of a majority of the Purchasers, the Company will not disclose these terms to anyone other than its officers, directors, key service providers, and other prospective Purchasers. The Binding Terms contained in this paragraph shall be governed by and construed in accordance with Delaware law applicable to agreements signed and performed solely within that state. The parties hereto agree to submit any dispute arising from or relating to this term sheet to binding arbitration in Delaware, or if any party requests, remotely via electronic means, under the American Arbitration Association Commercial Arbitration Rules as in effect at such time. Any arbitration award so obtained shall be enforceable in any court having valid jurisdiction.
 
 
 ------------
