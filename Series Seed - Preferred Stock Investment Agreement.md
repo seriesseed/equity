@@ -1,14 +1,14 @@
 # SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 
-This Series Seed Preferred Stock Investment Agreement (this “Agreement”) is made as of the Agreement Date by and among the Company, the Purchasers and the Key Holders.
+This Series Seed Preferred Stock Investment Agreement (this “Agreement”) is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
 
-The parties hereto hereby agree as follows:
+The parties agree as follows:
 
-1.  DEFINITIONS. Capitalized terms used and not otherwise defined in this Agreement or the Exhibit and Schedules thereto shall have the meanings set forth in Exhibit A hereto.
+1.  DEFINITIONS. Capitalized terms used and not otherwise defined in this Agreement or the Exhibit and Schedules thereto have the meanings set forth in Exhibit A.
 
-2.  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B hereto, (i) each Purchaser agrees to purchase at the applicable Closing and the Company agrees to sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser’s name on Schedule 1, at a price per share equal to the Purchase Price (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and (ii) each Purchaser, the Company and each Key Holder agrees to be bound by the obligations set forth herein and to grant to the other parties hereto the rights set forth in this Agreement.    
+2.  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B hereto, (i) each Purchaser shall purchase at the applicable Closing and the Company shall sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser’s name on Schedule 1, at a price per share equal to the Purchase Price (subject to any applicable discounts when all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties hereto the rights set forth in this Agreement.    
 
-3.  ENTIRE AGREEMENT.  This Agreement (including the Exhibits and Schedules hereto) together with the Restated Charter constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties are expressly canceled. 
+3.  ENTIRE AGREEMENT.  This Agreement (including the Exhibits and Schedules hereto) together with the Restated Charter constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled. 
 
 -------------------------
 # EXHIBIT A
@@ -18,27 +18,27 @@ The parties hereto hereby agree as follows:
 
 ### 1. OVERVIEW DEFINITIONS.
 
-“Agreement Date” shall mean *____________________________________________.*
+“Agreement Date” means *____________________________________________.*
 
-“Company” shall mean *___________________________________________________.*
+“Company” means *___________________________________________________.*
 
-“Governing Law” shall mean the laws of the state of *____________________.*
+“Governing Law” means the laws of the state of *____________________.*
 
-“Dispute Resolution Jurisdiction” shall mean the federal or state courts located in *________________.*
+“Dispute Resolution Jurisdiction” means the federal or state courts located in *________________.*
 
-“State of Incorporation” shall mean *____________________________________.*
+“State of Incorporation” means *____________________________________.*
 
-“Stock Plan” shall mean *________________________________________________.*
+“Stock Plan” means *________________________________________________.*
 
 ### 2. BOARD COMPOSITION DEFINITIONS.
 
-“Common Board Member Count” shall mean *______.*
+“Common Board Member Count” means *______.*
 
-“Mutual Consent Board Member Count” shall mean *______.*
+“Mutual Consent Board Member Count” means *______.*
 
-“Series Seed Board Member Count” shall mean *______.*
+“Series Seed Board Member Count” means *______.*
 
-“Common Control Holders” shall mean the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
+“Common Control Holders” meansn the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
 
 ### 3. TERM SHEET DEFINITIONS.
 
@@ -68,7 +68,7 @@ The parties hereto hereby agree as follows:
 
 ## PURCHASERS:
 
-Name, Address and E-Mail of Purchaser / Series Seed Preferred Stock Shares Purchased / Indebtedness Cancellation / Cash Payment / Total Purchase Amount
+Name, Address and Email of Purchaser / Series Seed Preferred Stock Shares Purchased / Indebtedness Cancellation / Cash Payment / Total Purchase Amount
   							
 1:
 
@@ -111,7 +111,7 @@ Name, Address and E-Mail of Purchaser / Series Seed Preferred Stock Shares Purch
 20:
 
 KEY HOLDERS:
-Name, Address and E-Mail of Key Holder / Shares of Common Stock Held
+Name, Address and Email of Key Holder / Shares of Common Stock Held
 	
 1:
 
@@ -143,9 +143,9 @@ Name, Address and E-Mail of Key Holder / Shares of Common Stock Held
 
 #### 1.1 Sale and Issuance of Series Seed Preferred Stock.
 
-1.1.1 The Company shall adopt and file the Company’s restated organizational documents, as applicable (e.g. certificate of incorporation), in substantially the form of Exhibit C attached to this Agreement (as the same may be amended, restated, supplemented or otherwise modified from time to time) (the “Restated Charter”) with the Secretary of State of the State of Incorporation on or before the Initial Closing (as defined below).
+1.1.1 The Company shall adopt and file the Company’s restated organizational documents, as applicable (e.g. certificate of incorporation), in substantially the form of Exhibit C attached to this Agreement (as the same may be amended, restated, supplemented or otherwise modified from time to time) (the “Restated Charter”) with the Secretary of State of the State of Incorporation on or before the Initial Closing.
 
-1.1.2 Subject to the terms and conditions of this Agreement, each investor listed as a “Purchaser” on Schedule 1 hereto (each “Purchaser” and together the “Purchasers”) agrees to purchase at the applicable Closing (as defined below) and the Company agrees to sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock of the Company (“Series Seed Preferred Stock”) set forth opposite such Purchaser’s name on Schedule 1, at a purchase price per share equal to the Purchase Price. 
+1.1.2 Subject to the terms and conditions of this Agreement, each investor listed as a “Purchaser” on Schedule 1 (each, a “Purchaser”) shall purchase at the applicable Closing and the Company agrees to sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock of the Company (“Series Seed Preferred Stock”) set forth opposite such Purchaser’s name on Schedule 1, at a purchase price per share equal to the Purchase Price. 
 
 #### 1.2 Closing; Delivery.
 
