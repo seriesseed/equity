@@ -1,12 +1,12 @@
 ## Version 3.2 
 
-When we launched Series Seed we committed to making them a crowed-sourced set of documents.  With today’s release of version 3.2 we are taking our most significant step in this direction.  The vast majority of the changes in this version are crowd-sourced optimizations to remove legalese.  In particular, we’d like to thank the following commenters and contributors for their effort:  @rickcolisimo @zekevermillion @thesmart @strikeroot @sblom @jackmaney @blueseed @commonaccord.  
+When we launched Series Seed we committed to making them a crowd-sourced set of documents.  With today’s release of version 3.2 we are taking our most significant step in this direction.  The vast majority of the changes in this version are crowd-sourced optimizations to remove legalese.  In particular, we’d like to thank the following commenters and contributors for their effort:  @rickcolosimo @zekevermillion @thesmart @strikeroot @sblom @jackmaney @blueseed @commonaccord.  
 
 Keep the comments coming!  We are committed to continually improving and simplifying these documents.  
 
 Also, we’ve been asked to address changes in the laws with regard to general solicitation.  We will make an update in the next version and are happy to see any suggestions in the interim.  
 
-As always, clean and redline versions of the updated documents in word are also up on the [blog](http://http://www.seriesseed.com/).
+As always, clean and redline versions of the updated documents in Word are also up on the [blog](http://www.seriesseed.com/).
 
 
 ## Version 3.1
