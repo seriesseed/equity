@@ -72,7 +72,7 @@ For a period of thirty days, the Company shall not solicit offers from other par
 ## COMPANY: 
 
 *[__________, INC.]*
-						
+By: _______________
 Name:  	
 
 Title: 
@@ -80,7 +80,7 @@ Title:
 Date: 
 
 ## PURCHASERS: 	
-
+By: _______________
 Name:  	
 
 Title:  
