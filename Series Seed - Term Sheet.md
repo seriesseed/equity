@@ -1,8 +1,8 @@
-# TERMS FOR PRIVATE PLACEMENT OF SEED PREFERRED STOCK OF *[Insert Company Name]*, INC.
+# TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF *[Insert Company Name]*, INC.
 
 *[Date]*
 
-The following is a summary of the principal terms with respect to the proposed Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the “Company”).  Except for the section entitled “Binding Terms,” such summary of terms does not constitute a legally binding obligation.  Any other legally binding obligation will only be made pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the “Company”).  Except for the section entitled “Binding Terms,” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 ## Offering Terms  
 
@@ -32,11 +32,11 @@ Convertible into one share of Common (subject to proportional adjustments for st
 
 ### Voting Rights:	
 
-Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to the Company’s right of repurchase at original cost); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
+Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
 
 ### Documentation:	
 
-Documents will be based on Series Seed Preferred Stock documents published at www.seriesseed.com.      
+Documents will be identical to the Series Seed Preferred Stock documents published at www.seriesseed.com, except for the modifications set forth in this Term Sheet.    
 
 ### Financial Information:	
 
@@ -64,7 +64,7 @@ Each Key Holder shall have four years vesting beginning *[_______]*. Full accele
 
 ### Binding Terms:	
 
-For a period of thirty days, the Company agrees not to solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company will not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+For a period of thirty days, the Company shall not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
 
 
 ------------
