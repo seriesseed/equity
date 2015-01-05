@@ -47,7 +47,7 @@ As used in this Restated Certificate (the "Restated Certificate"), the following
 
 “Original Issue Price” means $[Price] per share for the Series Seed Preferred Stock.  
 
-“Requisite Holders” means the holders of at least a majority of the outstanding shares of Preferred Stock (voting as a single class on an as-converted basis). 
+“Requisite Holders” means the holders of a majority of the outstanding shares of Preferred Stock (voting as a single class on an as-converted basis). 
 
 ## ARTICLE IV: PURPOSE.
 
