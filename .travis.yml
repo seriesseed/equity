@@ -11,6 +11,7 @@ deploy:
   skip_cleanup: true
   on:
     repo: kemitchell/equity
+    branch: master
     tags: true
 
 language: ruby
