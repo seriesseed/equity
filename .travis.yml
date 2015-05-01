@@ -1,20 +1,8 @@
 ---
-# Commands to run before building
 before_script:
-  # Install cabal, the package manager for programs like pandoc that are
-  # written in the Haskell language.
-  - sudo apt-get install cabal-install
-  # Install the zip archiver.
-  - sudo apt-get install zip
-  # Update cabal's list of available packages.
-  - cabal update
-  # Install pandoc
-  - cabal install pandoc
-  # Add the directory where pandoc will be installed to the list of
-  # directories the operating system will search.
-  - export PATH=$HOME/.cabal/bin:$PATH
+  - sudo apt-get update
+  - sudo apt-get install -y pandoc zip
 
-# Upload SeriesSeed.zip as a GitHub release for every tagged commit.
 deploy:
   provider: releases
   api_key:
@@ -25,6 +13,5 @@ deploy:
     repo: kemitchell/equity
     tags: true
 
-# Use rake to build SeriesSeed.zip
 language: ruby
-script: rake
+script: bundle exec rake
