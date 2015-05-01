@@ -5,7 +5,7 @@ deploy:
   provider: releases
   api_key:
     secure: kMooLRcmw6nKoJGncvNl11c32uZoZQxHdvsL7VPAkkaK3x5bhzbG/1m5gYLp6IcAPjyqEtRiENcaER3YshN2uEqUS+z8YNFH+rLe3Uy/T4ySJ0R2i70YhobHFirQyY/BMKmx9lMIc/2AY7z4fj2xqm4RxVpQvXVhPI35d0tfuqA=
-  file: SeriesSeed.zip
+  file: "Series Seed - Microsoft Word.zip"
   skip_cleanup: true
   on:
     repo: kemitchell/equity
