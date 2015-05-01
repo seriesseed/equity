@@ -3,7 +3,7 @@ require 'rake/clean'
 
 markdown_files = Rake::FileList['*.md']
 docx_files = markdown_files.ext('docx')
-zip = 'Series Seed - Microsoft Word.zip'
+zip = 'Series-Seed-Microsoft-Word.zip'
 
 task :default => zip
 
