@@ -18,50 +18,50 @@ The parties agree as follows:
 
 ### 1. OVERVIEW DEFINITIONS.
 
-“Agreement Date” means *____________________________________________.*
+"Agreement Date" means *____________________________________________.*
 
-“Company” means *___________________________________________________.*
+"Company" means *___________________________________________________.*
 
-“Governing Law” means the laws of the state of *____________________.*
+"Governing Law" means the laws of the state of *____________________.*
 
-“Dispute Resolution Jurisdiction” means the federal or state courts located in *________________.*
+"Dispute Resolution Jurisdiction" means the federal or state courts located in *________________.*
 
-“State of Incorporation” means *____________________________________.*
+"State of Incorporation" means *____________________________________.*
 
-“Stock Plan” means *________________________________________________.*
+"Stock Plan" means *________________________________________________.*
 
 ### 2. BOARD COMPOSITION DEFINITIONS.
 
-“Common Board Member Count” means *______.*
+"Common Board Member Count" means *______.*
 
-“Mutual Consent Board Member Count” means *______.*
+"Mutual Consent Board Member Count" means *______.*
 
-“Series Seed Board Member Count” means *______.*
+"Series Seed Board Member Count" means *______.*
 
-“Common Control Holders” means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
+"Common Control Holders" means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
 
 ### 3. TERM SHEET DEFINITIONS.
 
-“Major Purchaser Dollar Threshold” means *$____________.*
+"Major Purchaser Dollar Threshold" means *$____________.*
 
-“Purchase Price” means *$____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
+"Purchase Price" means *$____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
 
-“Total Series Seed Investment Amount” means *$____________.*
+"Total Series Seed Investment Amount" means *$____________.*
 
-“Unallocated Post-Money Option Pool Percent” means *____________*%.
+"Unallocated Post-Money Option Pool Percent" means *____________*%.
 
-“Purchaser Counsel Reimbursement Amount” means *$____________.*
+"Purchaser Counsel Reimbursement Amount" means *$____________.*
 
 #### 4. RESULTING CAP TABLE DEFINITIONS.
 
-“Common Shares Issued and Outstanding Pre-Money” means *____________.*
+"Common Shares Issued and Outstanding Pre-Money" means *____________.*
 
-“Total Post-Money Shares Reserved for Option Pool” means *____________.* 
+"Total Post-Money Shares Reserved for Option Pool" means *____________.* 
 
-“Number of Issued And Outstanding Options” means *____________.*
+"Number of Issued And Outstanding Options" means *____________.*
 
-“Unallocated Post-Money Option Pool Shares” means *____________.* 
-  
+"Unallocated Post-Money Option Pool Shares" means *____________.* 
+
 # SCHEDULE 1
 
 # SCHEDULE OF PURCHASERS & KEY HOLDERS
@@ -243,7 +243,7 @@ The Purchaser understands that no public market now exists for the shares of Ser
 
 The Purchaser understands that the shares of Series Seed Preferred Stock and any securities issued in respect of or exchange for the shares of Series Seed Preferred Stock, may bear any one or more of the following legends:  (a) any legend set forth in, or required by, this Agreement; (b) any legend required by the securities laws of any state to the extent such laws are applicable to the shares of Series Seed Preferred Stock represented by the certificate so legended; and (c) the following legend:
 
-“THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF.  NO TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED.”
+"THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF.  NO TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED."
 
 #### 3.7 Accredited and Sophisticated Purchaser.  
 
@@ -275,7 +275,7 @@ If the Purchaser is an individual, then the Purchaser resides in the state ident
 
 If the Company issues securities in its next equity financing after the date hereof (the "Next Financing") that (a) have rights, preferences or privileges that are more favorable than the terms of the shares of Series Seed Preferred Stock, such as price-based anti-dilution protection, or (b) provide all such future investors other contractual terms such as registration rights, the Company shall provide substantially equivalent rights to the Purchasers with respect to the shares of Series Seed Preferred Stock (with appropriate adjustment for economic terms or other contractual rights), subject to such Purchaser's execution of any documents, including, if applicable, investor rights, co-sale, voting, and other agreements, executed by the investors purchasing securities in the Next Financing (such documents, the "Next Financing Documents").  Any Major Purchaser will remain a Major Purchaser for all purposes in the Next Financing Documents to the extent such concept exists. The Company shall pay the reasonable fees and expenses, not to exceed $5,000 in the aggregate, of one counsel for the Purchasers in connection with the Purchasers' review, execution, and delivery of the Next Financing Documents.  Notwithstanding anything herein to the contrary, subject to the provisions of Section 8.11, upon the execution and delivery of the Next Financing Documents by Purchasers holding a majority of the then-outstanding shares of Series Seed Preferred Stock held by all Purchasers, this Agreement (excluding any then-existing and outstanding obligations) shall be amended and restated by and into such Next Financing Documents and shall be terminated and of no further force or effect.
 
-#### 4.3 Assignment of Company’s Preemptive Rights.  
+#### 4.3 Assignment of Company's Preemptive Rights.  
 
 The Company shall obtain at or prior to the Initial Closing, and shall maintain, a right of first refusal with respect to transfers of shares of Common Stock by each holder thereof, subject to certain standard exceptions.  If the Company elects not to exercise its right of first refusal with respect to a proposed transfer of the Company's outstanding securities by any Key Holder, the Company shall assign such right of first refusal to the Major Purchasers.  In the event of such assignment, each Major Purchaser shall have a right to purchase that portion of the securities proposed to be transferred by such Key Holder equal to the ratio of (a) the number of shares of the Company's Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by such Major Purchaser, to (b) the number of shares of the Company's Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by all Major Purchasers. 
 
@@ -295,7 +295,7 @@ Each person owning of record shares of Common Stock of the Company issued or iss
 
 Notwithstanding the provisions of Sections 5.1(a) and (b), no such registration statement or opinion of counsel will be required: (i) for any transfer of any Securities in compliance with the Securities and Exchange Commission's Rule 144 or Rule 144A, or (ii) for any transfer of any Securities by a Holder that is a partnership, limited liability company, a corporation, or a venture capital fund to (A) a partner of such partnership, a member of such limited liability company, or stockholder of such corporation, (B) an affiliate of such partnership, limited liability company or corporation (including, any affiliated investment fund of such Holder), (C) a retired partner of such partnership or a retired member of such limited liability company, (D) the estate of any such partner, member, or stockholder, or (iii) for the transfer without additional consideration or at no greater than cost by gift, will, or intestate succession by any Holder to the Holder's spouse or lineal descendants or ancestors or any trust for any of the foregoing; provided that, in the case of clauses (ii) and (iii), the transferee agrees in writing to be subject to the terms of this Agreement to the same extent as if the transferee were an original Purchaser under this Agreement.
 
-#### 5.2 “Market Stand-Off” Agreement.  
+#### 5.2 "Market Stand-Off" Agreement.  
 
 To the extent requested by the Company or an underwriter of securities of the Company, each Holder shall not sell or otherwise transfer or dispose of any Securities or other shares of stock of the Company then owned by such Holder (other than to donees or partners of the Holder who agree to be similarly bound) for up to 180 days following the effective date of any registration statement of the Company filed under the Securities Act; provided however that, if during the last 17 days of the restricted period the Company issues an earnings release or material news or a material event relating to the Company occurs, or before the expiration of the restricted period the Company announces that it will release earnings results during the 16-day period beginning on the last day of the restricted period, and if the Company's securities are listed on the Nasdaq Stock Market and Rule 2711 thereof applies, then the restrictions imposed by this Section 5.2 will continue to apply until the expiration of the 18-day period beginning on the issuance of the earnings release or the occurrence of the material news or material event; provided, further, that such automatic extension will not apply to the extent that the Financial Industry Regulatory Authority has amended or repealed NASD Rule 2711(f)(4), or has otherwise provided written interpretive guidance regarding such rule, in each case, so as to eliminate the prohibition of any broker, dealer, or member of a national securities association from publishing or distributing any research report, with respect to the securities of an "emerging growth company" (as defined in the Jumpstart Our Business Startups Act of 2012) before or after the expiration of any agreement between the broker, dealer, or member of a national securities association and the emerging growth company or its stockholders that restricts or prohibits the sale of securities held by the emerging growth company or its stockholders after the initial public offering date.  In no event will the restricted period extend beyond 215 days after the effective date of the registration statement. For purposes of this Section 5.2, "Company" includes any wholly-owned subsidiary of the Company into which the Company merges or consolidates.  The Company may place restrictive legends on the certificates representing the shares subject to this Section 5.2 and may impose stop transfer instructions with respect to the Securities and such other shares of stock of each Holder (and the shares or securities of every other person subject to the foregoing restriction) until the end of such period.  Each Holder shall enter into any agreement reasonably required by the underwriters to implement the foregoing within any reasonable timeframe so requested.
 
@@ -371,11 +371,11 @@ The titles and subtitles used in this Agreement are used for convenience only an
 
 All notices and other communications given or made pursuant to this Agreement must be in writing and will be deemed to have been given upon the earlier of actual receipt or:  (a) personal delivery to the party to be notified, (b) when sent, if sent by facsimile or electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient's next business day, (c) five days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.  All communications must be sent to the respective parties at their address as set forth on the signature page or Schedule 1, or to such address, facsimile number or electronic mail address as subsequently modified by written notice given in accordance with this Section 8.5.  
 
-#### 8.6 No Finder’s Fees.  
+#### 8.6 No Finder's Fees.  
 
 Each party severally represents to the other parties that it neither is nor will be obligated for any finder's fee or commission in connection with this transaction.  Each Purchaser shall indemnify, defend, and hold harmless the Company from any liability for any commission or compensation in the nature of a finder's or broker's fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Purchaser or any of its officers, employees, or representatives is responsible.  The Company shall indemnify, defend, and hold harmless each Purchaser from any liability for any commission or compensation in the nature of a finder's or broker's fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Company or any of its officers, employees or representatives is responsible.
 
-#### 8.7 Attorneys’ Fees.  
+#### 8.7 Attorneys' Fees.  
 
 If any action at law or in equity (including arbitration) is necessary to enforce or interpret the terms of this Agreement, the prevailing party will be entitled to reasonable attorneys' fees, costs, and necessary disbursements in addition to any other relief to which the party may be entitled.  Each party shall pay all costs and expenses that it incurs with respect to the negotiation, execution, delivery, and performance of the Agreement; provided, however, that the Company shall, at the Closing, reimburse the fees and expenses of one counsel for Purchasers, for a flat fee equal to the Purchaser Counsel Reimbursement Amount.
 
@@ -451,6 +451,6 @@ FORM OF RESTATED CHARTER
 
 DISCLOSURE SCHEDULE
 
-See next page – if no next page, then there are no disclosures.
+See next page. If no next page, then there are no disclosures.
 
 This Disclosure Schedule (this "Disclosure Schedule") is delivered by the Company in connection with the sale of shares of the Company's Series Seed Preferred Stock on or about the Agreement Date by the Company.  This Disclosure Schedule is arranged in sections corresponding to the numbered and lettered sections contained in Exhibit B of the Agreement, and the disclosures in any section of this Disclosure Schedule qualify other sections in Exhibit B of the Agreement to the extent it is reasonably apparent from a reading of the disclosure that such disclosure is applicable to such other sections.  Where any representation or warranty is limited or qualified by the materiality of the matters to which the representation or warranty are given, the inclusion of any matter in this Disclosure Schedule does not constitute an admission by the Company that such matter is material.  Unless otherwise defined herein, any capitalized terms in this Disclosure Schedule have the same meanings assigned to those terms in the Agreement.  Nothing in this Disclosure Schedule constitutes an admission of any liability or obligation of the Company to any third party, or an admission against the Company's interests.

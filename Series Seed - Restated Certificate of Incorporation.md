@@ -5,7 +5,7 @@
 (Pursuant to Sections 242 and 245 of the
 General Corporation Law of the State of Delaware)
 
-[Corporation Name], a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the “General Corporation Law”), does hereby certify as follows.
+[Corporation Name], a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the "General Corporation Law"), does hereby certify as follows.
 
 1. The name of this corporation is [Corporation Name] and that this corporation was originally incorporated pursuant to the General Corporation Law on [Date] under the name [Corporation Name].   
 
@@ -15,7 +15,7 @@ General Corporation Law of the State of Delaware)
 
 3. Exhibit A referred to above is attached hereto as Exhibit A and is hereby incorporated herein by this reference.  This Restated Certificate of Incorporation was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
 
-4.  This Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this corporation’s Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law. 
+4.  This Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this corporation's Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law. 
 
 IN WITNESS WHEREOF, this Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this [DAY day of MONTH, YEAR].
 
@@ -33,7 +33,7 @@ By:	*__________________________*
 
 ## ARTICLE I: NAME. 
 
-The name of this corporation is *[Corporation Name]*  (the “Corporation”).
+The name of this corporation is *[Corporation Name]*  (the "Corporation").
 
 ## ARTICLE II: REGISTERED OFFICE.
 
@@ -43,11 +43,11 @@ The address of the registered office of the Corporation in the State of Delaware
 
 As used in this Restated Certificate (the "Restated Certificate"), the following terms have the meanings set forth below:
 
-“Board Composition” means that for so long as at least 25% of the initially issued shares of Preferred Stock remain outstanding, the holders of record of the shares of Series Seed Preferred Stock exclusively and as a separate class, are entitled to elect [Preferred Directors] director(s) of the Corporation (the “Series Seed Director(s)”), the holders of record of the shares of Common Stock, exclusively and as a separate class, shall be entitled to elect [Common Directors] director(s) of the Corporation, and any additional directors will elected by the affirmative vote of a majority of the Preferred Stock and Common Stock, voting together as a single class on an as-converted basis. For administrative convenience, the initial Series Seed Director may also be appointed by the Board in connection with the approval of the initial issuance of Series Seed Preferred Stock without a separate action by the holders of a majority of Series Seed Preferred Stock. 
+"Board Composition" means that for so long as at least 25% of the initially issued shares of Preferred Stock remain outstanding, the holders of record of the shares of Series Seed Preferred Stock exclusively and as a separate class, are entitled to elect [Preferred Directors] director(s) of the Corporation (the "Series Seed Director(s)"), the holders of record of the shares of Common Stock, exclusively and as a separate class, shall be entitled to elect [Common Directors] director(s) of the Corporation, and any additional directors will elected by the affirmative vote of a majority of the Preferred Stock and Common Stock, voting together as a single class on an as-converted basis. For administrative convenience, the initial Series Seed Director may also be appointed by the Board in connection with the approval of the initial issuance of Series Seed Preferred Stock without a separate action by the holders of a majority of Series Seed Preferred Stock. 
 
-“Original Issue Price” means $[Price] per share for the Series Seed Preferred Stock.  
+"Original Issue Price" means $[Price] per share for the Series Seed Preferred Stock.  
 
-“Requisite Holders” means the holders of at least a majority of the outstanding shares of Preferred Stock (voting as a single class on an as-converted basis). 
+"Requisite Holders" means the holders of at least a majority of the outstanding shares of Preferred Stock (voting as a single class on an as-converted basis). 
 
 ## ARTICLE IV: PURPOSE.
 
@@ -55,7 +55,7 @@ The nature of the business or purposes to be conducted or promoted is to engage 
 
 ## ARTICLE V: AUTHORIZED SHARES.
 
-The total number of shares of all classes of stock that the Corporation has authority to issue is [total authorized shares], consisting of (a) [authorized common shares] shares of Common Stock, $[par value] per share and (b) [authorized preferred shares] shares of Preferred Stock, $[par value] per share. The Preferred Stock may be issued from time to time in one or more series, each of such series to consist of such number of shares and to have such terms, rights, powers and preferences, and the qualifications and limitations with respect thereto, as stated or expressed herein.  As of the effective date of this Restated Certificate, all shares of the Preferred Stock of the Corporation are hereby designated “Series Seed Preferred Stock”.  
+The total number of shares of all classes of stock that the Corporation has authority to issue is [total authorized shares], consisting of (a) [authorized common shares] shares of Common Stock, $[par value] per share and (b) [authorized preferred shares] shares of Preferred Stock, $[par value] per share. The Preferred Stock may be issued from time to time in one or more series, each of such series to consist of such number of shares and to have such terms, rights, powers and preferences, and the qualifications and limitations with respect thereto, as stated or expressed herein.  As of the effective date of this Restated Certificate, all shares of the Preferred Stock of the Corporation are hereby designated "Series Seed Preferred Stock".  
 
 ### A. COMMON STOCK
 
@@ -71,7 +71,7 @@ The holders of the Common Stock are entitled to one vote for each share of Commo
 
 ### B. PREFERRED STOCK
 
-The following rights, powers and privileges, and restrictions, qualifications and limitations, shall apply to the Preferred Stock.  Unless otherwise indicated, references to “Sections” in this Part B of this Article V refer to sections of this Part B.
+The following rights, powers and privileges, and restrictions, qualifications and limitations, shall apply to the Preferred Stock.  Unless otherwise indicated, references to "Sections" in this Part B of this Article V refer to sections of this Part B.
 
 #### 1. Liquidation, Dissolution or Winding Up; Certain Mergers, Consolidations and Asset Sales.
 
@@ -120,7 +120,7 @@ At any time when at least 25% of the initially issued shares of Preferred Stock 
 
 #### 3. Conversion.  
 
-The holders of the Preferred Stock shall have conversion rights as follows (the “Conversion Rights”):
+The holders of the Preferred Stock shall have conversion rights as follows (the "Conversion Rights"):
 
 ##### 3.1 Right to Convert.  
 
