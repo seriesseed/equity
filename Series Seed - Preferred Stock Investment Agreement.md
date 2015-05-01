@@ -305,7 +305,7 @@ If a Deemed Liquidation Event (as defined in the Restated Charter) is approved b
 
 #### 5.4 Exceptions to Drag Along Right. 
 
-Notwithstanding the foregoing, a Stockholder need not comply with Section 5.3 above in connection with any proposed Sale of the Company (the "Proposed Sale") unless:  
+Notwithstanding the foregoing, a Stockholder need not comply with Section 5.3 above in connection with any proposed sale of the Company (the "Proposed Sale") unless:  
 
 (a) any representations and warranties to be made by the Stockholder in connection with the Proposed Sale are limited to representations and warranties related to authority, ownership and the ability to convey title to such Shares, including representations and warranties that (i) the Stockholder holds all right, title and interest in and to the Shares the Stockholder purports to hold, free and clear of all liens and encumbrances, (ii) the obligations of the Stockholder in connection with the transaction have been duly authorized, if applicable, (iii) the documents to be entered into by the Stockholder have been duly executed by the Stockholder and delivered to the acquirer and are enforceable against the Stockholder in accordance with their respective terms and, (iv) neither the execution and delivery of documents to be entered into in connection with the transaction, nor the performance of the Stockholder's obligations thereunder, will cause a breach or violation of the terms of any agreement, law, or judgment, order, or decree of any court or governmental agency;
 
