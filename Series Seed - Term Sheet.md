@@ -2,13 +2,13 @@
 
 *[Date]*
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the “Company”).  Except for the section entitled “Binding Terms,” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the "Company").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 ## Offering Terms  
 
 ### Securities to Issue:  
 
-Shares of Series Seed Preferred Stock of the Company (the “Series Seed”).
+Shares of Series Seed Preferred Stock of the Company (the "Series Seed").
 
 ### Aggregate Proceeds:	
 
@@ -16,11 +16,11 @@ Shares of Series Seed Preferred Stock of the Company (the “Series Seed”).
 
 ### Purchasers:	
 
-*[Accredited investors approved by the Company]* (the “Purchasers”).
+*[Accredited investors approved by the Company]* (the "Purchasers").
 
 ### Price Per Share:	
 
-Price per share (the “Original Issue Price”), based on a pre-money valuation of *$[____]*, including an available option pool of *[___]*%.
+Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[____]*, including an available option pool of *[___]*%.
 
 ### Liquidation Preference:	
 
@@ -40,7 +40,7 @@ Documents will be identical to the Series Seed Preferred Stock documents publish
 
 ### Financial Information:	
 
-Purchasers who have invested at least *[$________]* (“Major Purchasers”) will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least *[$________]* ("Major Purchasers") will receive standard information and inspection rights and management rights letter.
 
 ### Participation Right:	
 
@@ -60,7 +60,7 @@ The Series Seed will be given the same rights as the next series of Preferred St
 
 ### Key Holder Matters:	
 
-Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
 ### Binding Terms:	
 
