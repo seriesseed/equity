@@ -12,4 +12,4 @@ deploy:
     branch: master
     tags: true
 language: ruby
-script: bundle exec rake
+before_deploy: bundle exec rake
