@@ -12,7 +12,7 @@ task zip => docx_files do |t|
 end
 
 rule '.docx' => '.md' do |t|
-  sh "pandoc -o '#{t.name}' '#{t.source}'"
+  sh "pandoc --smart -o '#{t.name}' '#{t.source}'"
 end
 
 CLEAN.include(docx_files)
