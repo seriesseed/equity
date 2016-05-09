@@ -225,7 +225,7 @@ Subject to any additional vote required by this Restated Certificate, the number
 Elections of directors need not be by written ballot unless the Bylaws so provide.   
 
 ### D.	MEETINGS AND BOOKS.  
-Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws mayprovide.  The books of the Corporation may be kept outside the State of Delaware at such place or places as may be designated from time to time by the Board or in the Bylaws.
+Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws may provide.  The books of the Corporation may be kept outside the State of Delaware at such place or places as may be designated from time to time by the Board or in the Bylaws.
 
 ## ARTICLE IX:  DIRECTOR LIABILITY.
 
