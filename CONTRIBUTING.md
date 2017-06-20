@@ -11,4 +11,4 @@ Please be sure to review the [README] file, which includes important legal discl
 
 [CC0 open source license]: https://creativecommons.org/publicdomain/zero/1.0/
 
-[README]: https://github.com/CooleyLLP/ss-staging/blob/master/README.md
+[README]: https://github.com/CooleyLLP/seriesseed/blob/master/README.md
