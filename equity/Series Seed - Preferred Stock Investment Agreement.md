@@ -28,7 +28,7 @@ The parties agree as follows:
 
 "Governing Law" means the laws of the state of Delaware.
 
-"Person" means any individual, corporation, partnership, trust, limited liability company, association or other entity.
+"person" means any individual, corporation, partnership, trust, limited liability company, association or other entity.
 
 "State of Incorporation" means *____________________________________.*
 

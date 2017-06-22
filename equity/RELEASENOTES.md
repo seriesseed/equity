@@ -1,5 +1,9 @@
 # Series Seed Equity Documents - Cooley Fork 
 
+## Version 1.01 (June 22, 2017)
+
+_Preferred Stock Investment Agreement_: Changed "Person" to "person" in Definitions (Exhibit A) to conform to use of "person" in the document (thanks to @HazardJ for posting the Issue.)
+
 ## Version 1.0 (June 20, 2017)
 
 ### About Square Brackets: Optional or Alternative Language
