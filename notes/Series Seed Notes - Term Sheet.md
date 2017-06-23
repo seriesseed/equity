@@ -31,7 +31,7 @@ Security:  The Notes shall be unsecured obligations of the Company.
 
 ## Documentation:
 
-The investments will be made pursuant to documentation prepared by the Company's legal counsel.  The Notes may be amended by the Company and the holders of a majority (by unpaid principal amount) of the Notes (the "Majority Holders"). 
+The investments will be made pursuant to documentation prepared by the Company's legal counsel using forms substantially similar to those made available via an automated document generator located at [https://cooleygo.com/seednotes/](https://cooleygo.com/seednotes/).  The Notes may be amended by the Company and the holders of a majority (by unpaid principal amount) of the Notes (the "Majority Holders"). 
 
 ## Expenses:
 The Company and Investors will each bear their own legal and other expenses with respect to the Notes financing.
