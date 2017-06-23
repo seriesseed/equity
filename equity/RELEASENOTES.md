@@ -4,6 +4,8 @@
 
 _Preferred Stock Investment Agreement_: Changed "Person" to "person" in Definitions (Exhibit A) to conform to use of "person" in the document (thanks to @HazardJ for posting the Issue.)
 
+_Term Sheet_: Updated Documentation URL to shortened URL.
+
 ## Version 1.0 (June 20, 2017)
 
 ### About Square Brackets: Optional or Alternative Language
