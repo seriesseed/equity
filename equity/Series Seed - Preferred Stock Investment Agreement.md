@@ -1,5 +1,4 @@
 [COMPANY NAME]
-
 # SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 
 This Series Seed Preferred Stock Investment Agreement (this "Agreement") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
