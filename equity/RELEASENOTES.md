@@ -1,5 +1,8 @@
 # Series Seed Equity Documents - Cooley Fork 
 
+## Version 1.02 (August 1, 2017)
+_Stockholder Consent_: Updated lead-in language reflecting recent amendments to the Delaware General Corporation Law regarding effectiveness of stockholder signatures.
+
 ## Version 1.01 (June 22, 2017)
 
 _Preferred Stock Investment Agreement_: Changed "Person" to "person" in Definitions (Exhibit A) to conform to use of "person" in the document (thanks to @HazardJ for posting the Issue.)
