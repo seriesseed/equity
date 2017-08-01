@@ -2,7 +2,7 @@
 
 # ACTION BY WRITTEN CONSENT OF THE STOCKHOLDERS OF [COMPANY NAME]
 
-The undersigned stockholders of [COMPANY NAME], a Delaware corporation (the "Company"), pursuant to Section 228 of the Delaware General Corporation Law, hereby adopt and approve the following resolutions and the taking of the actions referred to in such resolutions, it being agreed that these resolutions will be effective only after such actions have been approved by the Company’s Board of Directors to the extent that such actions require the approval of the Company’s Board of Directors:
+The undersigned stockholders of [COMPANY NAME], a Delaware corporation (the "Company"), pursuant to Section 228 of the Delaware General Corporation Law, hereby adopt and approve the following resolutions and the taking of the actions referred to in such resolutions, it being agreed that these resolutions will be effective only after such actions have been approved by the Company’s Board of Directors to the extent that such actions require the approval of the Company’s Board of Directors, provided that such later effectiveness shall not exceed 60 days from the earliest date of delivery of this Action by Written Consent:
 
 ## Amendment and Restatement of Certificate of Incorporation
 
