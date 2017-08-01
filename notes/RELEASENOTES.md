@@ -1,5 +1,9 @@
 # Series Seed Notes
 
+## Version 1.01 (June 22, 2017)
+
+_Term Sheet_: Updated Documentation language to reference Seed Notes documents on Cooley GO.
+
 ## Version 1.0 (June 20, 2017)
 
 ### Documents
