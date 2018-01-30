@@ -35,8 +35,6 @@ RESOLVED FURTHER, that the officers of the Company be, and each of them hereby i
 
 RESOLVED, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to take such further actions and execute such documents as may be necessary or appropriate in order to implement the foregoing resolutions; and
 
-RESOLVED FURTHER, that the foregoing resolutions will be effective only after each such resolution has been approved by the Board.
-
 [Signature Pages Follow]
 
 ***
