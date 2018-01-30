@@ -1,5 +1,8 @@
 # Series Seed Notes
 
+## Version 1.02 (October 30, 2017)
+_Term Sheet_: Revising "Change of Control" to "acquisition"
+
 ## Version 1.01 (June 22, 2017)
 
 _Term Sheet_: Updated Documentation language to reference Seed Notes documents on Cooley GO.
