@@ -54,10 +54,6 @@ Company to reimburse counsel to Purchasers for a flat fee of $10,000.
 
 The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
 
-### Binding Terms:	
-
-For a period of thirty days, the Company shall not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
-
 
 ------------
  
