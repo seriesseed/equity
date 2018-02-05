@@ -20,7 +20,7 @@ Shares of Series Seed Preferred Stock of the Company (the “Series Seed”).
 
 ### Price Per Share:	
 
-Price per share (the “Original Issue Price”), based on a pre-money valuation of *$[____]*, including an available option pool of *[___]*%.
+Price per share (the “Original Issue Price”), based on a pre-money valuation of *$[____]*; there will be no option pool increase included in the Original Issue Price calculation.
 
 ### Liquidation Preference:	
 
@@ -28,11 +28,11 @@ One times the Original Issue Price plus declared but unpaid dividends on each sh
 
 ### Conversion:	
 
-Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder.
+Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder [or upon approval of a majority of the Preferred Stock].
 
 ### Voting Rights:	
 
-Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
+Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to adversely change rights of the Preferred Stock.
 
 ### Documentation:	
 
@@ -40,15 +40,11 @@ Documents will be identical to the Series Seed Preferred Stock documents publish
 
 ### Financial Information:	
 
-Purchasers who have invested at least *[$________]* (“Major Purchasers”) will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least *[$________]* (“Major Purchasers”) will receive customoray management rights letter.
 
 ### Participation Right:	
 
 Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
-
-### Board of Directors:	
-
-*[___]* directors elected by holders of a majority of common stock, *[__]* elected by holders of a majority of Series Seed and *[___]* elected by mutual consent.
 
 ### Expenses:	
 
@@ -57,14 +53,6 @@ Company to reimburse counsel to Purchasers for a flat fee of $10,000.
 ### Future Rights:	
 
 The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
-
-### Key Holder Matters:	
-
-Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
-
-### Binding Terms:	
-
-For a period of thirty days, the Company shall not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
 
 
 ------------
