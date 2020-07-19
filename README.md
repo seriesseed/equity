@@ -36,17 +36,19 @@ Please feel free to make suggestions via pull requests or post issues in our Git
 
 As with the original Series Seed documents, all documents in this repository are open sourced under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0).
 ## Additional Disclaimer
-The Cooley LLP Series Seed Fork Documents (as defined below) are provided for your reference only and have been developed for companies incorporated in Delaware.
+The Cooley Series Seed Fork Documents (as defined below) are provided for your reference only and have been developed for companies incorporated in Delaware.
 
-You acknowledge and agree that the making available of these documents (the "Cooley LLP Series Seed Fork Documents") to you by Cooley LLP shall not create any attorney-client or other confidential or special relationship between you and Cooley LLP and does not constitute the provision of legal advice or other professional advice by Cooley LLP. You should seek advice from an attorney licensed in the relevant jurisdiction(s), as well as a tax professional, before relying on the Cooley LLP Series Seed Fork Documents. These documents, including this README.md, the RELEASENOTES.md and CONTRIBUTING.md documentation, may be considered Attorney Advertising under the ethical rules of certain jurisdictions.
+You acknowledge and agree that the making available of these documents (the "Cooley Series Seed Fork Documents") to you by Cooley LLP shall not create any attorney-client or other confidential or special relationship between you and Cooley LLP, Cooley (UK) LLP  and Cooley SG LLP<sup>1</sup> (collectively, "Cooley") does not constitute the provision of legal advice or other professional advice by Cooley. You should seek advice from an attorney licensed in the relevant jurisdiction(s), as well as a tax professional, before relying on the Cooley Series Seed Fork Documents. These documents, including this README.md, the RELEASENOTES.md and CONTRIBUTING.md documentation, may be considered Attorney Advertising under the ethical rules of certain jurisdictions.
 
-Additionally, the information provided in the Cooley LLP Series Seed Fork Documents does not constitute tax advice. Any discussion of tax matters is not intended or written to be used, and cannot be used, for the purpose of avoiding penalties under the Internal Revenue Code (or equivalent in the relevant jurisdiction) or promoting, marketing or recommending to another party any transaction or matter.
+Additionally, the information provided in the Cooley Series Seed Fork Documents does not constitute tax advice. Any discussion of tax matters is not intended or written to be used, and cannot be used, for the purpose of avoiding penalties under the Internal Revenue Code (or equivalent in the relevant jurisdiction) or promoting, marketing or recommending to another party any transaction or matter.
 
-You further agree and acknowledge that the Cooley LLP Series Seed Fork Documents have not been prepared with your specific circumstances in mind, may not be suitable for use in your business, and do not constitute tax advice. Relying on these documents, you assume all risk and liability that may result.
+You further agree and acknowledge that the Cooley Series Seed Fork Documents have not been prepared with your specific circumstances in mind, may not be suitable for use in your business, and do not constitute tax advice. Relying on these documents, you assume all risk and liability that may result.
 
 Review all documents carefully for accuracy before using them. There may be BRACKETED TEXT requiring your attention.
 
-COOLEY LLP PROVIDES THESE TERMS ON AN “AS IS” BASIS, AND SPECIFICALLY DISCLAIMS ALL WARRANTIES, TERMS, REPRESENTATIONS AND CONDITIONS WHETHER EXPRESS, IMPLIED, OR STATUTORY, AND INCLUDING ANY WARRANTIES, TERMS, REPRESENTATIONS AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT.
+COOLEY PROVIDES THESE TERMS ON AN “AS IS” BASIS, AND SPECIFICALLY DISCLAIMS ALL WARRANTIES, TERMS, REPRESENTATIONS AND CONDITIONS WHETHER EXPRESS, IMPLIED, OR STATUTORY, AND INCLUDING ANY WARRANTIES, TERMS, REPRESENTATIONS AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT.
+
+<sup>1</sup>Cooley SG LLP (UEN/Registration No. T19LL1477F) is a licensed foreign law practice registered in Singapore under the Limited Liability Partnerships Act (Chapter 163A) with limited liability.
 
 ### Original README.md Text
 
