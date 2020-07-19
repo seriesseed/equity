@@ -4,7 +4,7 @@
 
 The original "Series Seed" equity financing document sets, released in 2010, was a collaborative effort among lawyers and investors, spearheaded by lawyer-turned-investor Ted Wang, to reduce the cost of fundraising for emerging companies by standardizing the core necessary legal documents, thereby reducing the amount of attorney-time required to get to a "first draft".  While the original project did not create the concept of “Series Seed Preferred Stock,” it did provide a set of documents to the community under [CC0 open source license](https://creativecommons.org/publicdomain/zero/1.0/) via the [Series Seed blog](http://www.seriesseed.com) and in a [GitHub repository](https://github.com/seriesseed/equity) that have become one of the "go-to" sets of documents for many early-stage equity financings. In addition, convertible promissory notes remain popular for early-stage financings, although to our knowledge there is no publicly available and commonly accepted "form" of convertible promissory note documents.
 
-## About Cooley LLP's Series Seed Fork
+## About Cooley's Series Seed Fork
 
 ### Introducing "Series Seed Notes"
 
