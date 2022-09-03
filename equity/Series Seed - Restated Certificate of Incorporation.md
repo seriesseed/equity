@@ -190,7 +190,7 @@ For purposes of this Section 3.9, the following definitions will apply:
 
 	(ii) shares of Common Stock, Options or Convertible Securities issued by reason of a dividend, stock split, split-up or other distribution on shares of Common Stock that is covered by Section 3.4, Section 3.5, Section 3.6, Section 3.7 or Section 3.8;
 
-	(iii) subject to the approval required by Section 2.3, shares of Common Stock or Options issued to employees or directors of, or consultants or advisors to, the Corporation or any of its subsidiaries pursuant to a plan, agreement or arrangement approved by the Board; or
+	(iii) shares of Common Stock or Options issued to employees or directors of, or consultants or advisors to, the Corporation or any of its subsidiaries pursuant to a plan, agreement or arrangement approved by the Board; or
 
 	(iv) shares of Common Stock or Convertible Securities actually issued upon the exercise of Options or shares of Common Stock actually issued upon the conversion or exchange of Convertible Securities, in each case provided such issuance is pursuant to the terms of such Option or Convertible Security.
 
